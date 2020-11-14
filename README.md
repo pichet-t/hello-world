@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello Humans!
+
+Joe here, I like black coffee.
+Do not follow me :)
